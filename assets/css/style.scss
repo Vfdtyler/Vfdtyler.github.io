@@ -1,0 +1,29 @@
+---
+---
+
+@import "minima";  // make sure Minima’s CSS loads first
+
+.social-links {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0;
+}
+
+.social-links li {
+  margin: 0.5em 0;
+  font-size: 1.2em;
+}
+
+.social-links i {
+  margin-right: 0.5em;
+  color: #333;
+}
+
+.social-links a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.social-links a:hover {
+  color: #0073e6;
+}

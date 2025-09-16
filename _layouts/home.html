@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <ul class="post-list">
+	  {%- for post in paginator.posts -%}
+	  <li>
+	    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+		<span class="post-meta">
+		        <a href="{{ post.url | relative_url }}">
+		          {{ post.date | date: date_format }}
+		        </a>
+		      </span>
+	    <h2>
+		  {%- if post.link -%}
+					<a href="{{ post.link }}" target="_blank" rel="noopener">
+					  {{ post.title | escape }} ↗
+					</a>
+		          {%- else -%}
+		            {{ post.title | escape }}
+		          {%- endif -%}
+	    </h2>
+	    <div class="post-content">
+	      {{ post.content }}
+	    </div>
+	  </li>
+	  {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+
+{% if paginator.total_pages > 1 %}
+  <nav class="pagination" role="navigation">
+    {% if paginator.previous_page %}
+      <a class="newer-posts" href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
+    {% endif %}
+
+    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+    {% if paginator.next_page %}
+      <a class="older-posts" href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
+    {% endif %}
+  </nav>
+{% endif %}
+
+</div>
