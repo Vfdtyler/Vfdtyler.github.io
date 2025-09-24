@@ -28,6 +28,10 @@
   color: #0073e6;
 }
 
+a[rel="me"] {
+  display: none;
+}
+
 /** Blockquotes */
 blockquote { 
 color: #000; 
@@ -40,4 +44,21 @@ letter-spacing: normal;
 
 blockquote > :last-child { 
 margin-bottom: 0; 
+}
+
+.epigraph {
+  font-style: italic;
+  font-size: 1.2em;
+  color: #000;
+  text-align: center;
+  max-width: 450px; /* restricts the text width */
+  margin: 1em auto; /* centers the block horizontally */
+  line-height: 1.5;
+}
+
+.epigraph .attribution {
+  font-style: normal; /* makes the name not italic */
+  display: block; /* forces it onto its own line */
+  font-size: 1em;
+  color: #000;
 }
