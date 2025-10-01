@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2025-10-01 14:00
 title: Trump’s NSPM-7 Labels Common Beliefs As Terrorism “Indicators”
 link: https://www.kenklippenstein.com/p/trumps-nspm-7-labels-common-beliefs
 ---
