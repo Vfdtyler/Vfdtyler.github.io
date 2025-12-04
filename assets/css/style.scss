@@ -53,8 +53,9 @@ margin-bottom: 0;
   color: #000;
   text-align: center;
   max-width: 450px; /* restricts the text width */
-  margin: 1em auto; /* centers the block horizontally */
+  margin: 0.1em auto 1.5em; /* smaller top margin, bigger bottom margin */
   line-height: 1.5;
+  text-wrap: balance;
 }
 
 .epigraph .attribution {
@@ -62,4 +63,16 @@ margin-bottom: 0;
   display: block; /* forces it onto its own line */
   font-size: 1em;
   color: #000;
+}
+
+
+/** Pagination */
+.pagination {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.pagination .separator {
+  color: #999;
+  margin: 0 0.5em;
 }

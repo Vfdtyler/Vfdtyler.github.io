@@ -1,11 +1,10 @@
 ---
 layout: post
 date: 2025-11-05 13:30
-title: Zohran Mamdani Is Elected Mayor of New York City
-link: https://www.nytimes.com/2025/11/04/nyregion/nyc-mayor-mamdani-elected.html
+title: Zohran Mamdani Elected Mayor of New York City
 ---
 
-The New York Times:
+[The New York Times][nyt]:
 > Zohran Mamdani, a once unheralded state lawmaker from Queens whose affordability platform and charisma fueled a meteoric political rise, was elected on Tuesday as the 111th mayor of New York, according to The Associated Press.
 >
 > The victory by Mr. Mamdani, 34, a democratic socialist, placed a final stamp on the astonishing ascent of an assemblyman who rose from anonymity to defeat better-known rivals like former Gov. Andrew M. Cuomo, first in the Democratic primary and now again in the general election.
@@ -26,5 +25,6 @@ Tomorrow we get back to work, but today we celebrate. In celebration, say the fo
 
 Better things are possible.
 
+[nyt]: https://www.nytimes.com/2025/11/04/nyregion/nyc-mayor-mamdani-elected.html
 [hippo]: https://web.archive.org/web/20170720023725/https://twitter.com/internethippo/status/881161169469403137
 [hope]: https://www.youtube.com/watch?v=wMRxxm7OWWE
