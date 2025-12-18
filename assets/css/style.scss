@@ -3,6 +3,10 @@
 
 @import "minima";  // make sure Minima’s CSS loads first
 
+body {
+  font-family: system-ui, Helvetica, sans-serif;
+}
+
 .social-links {
   list-style: none;
   padding: 0;
@@ -33,6 +37,10 @@ a[rel="me"] {
   color: transparent;
 }
 
+.post-content {
+  text-wrap: pretty;
+}
+
 /** Blockquotes */
 blockquote { 
 color: #000; 
@@ -59,7 +67,7 @@ margin-bottom: 0;
 }
 
 .epigraph .attribution {
-  font-style: normal; /* makes the name not italic */
+  font-style: normal;
   display: block; /* forces it onto its own line */
   font-size: 1em;
   color: #000;
