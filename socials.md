@@ -7,15 +7,18 @@ minima:
     - title: Instagram
       icon: instagram
       url: https://www.instagram.com/vfdtyler/
-    - title: Bluesky
-      icon: bluesky
-      url: https://bsky.app/profile/tylerevans.xyz
     - title: Letterboxd
       icon: letterboxd
       url: https://letterboxd.com/Vfdtyler/
+    - title: Bluesky
+      icon: bluesky
+      url: https://bsky.app/profile/tylerevans.xyz
     - title: TikTok
       icon: tiktok
       url: https://www.tiktok.com/@vfdtyler
+    - title: Threads
+      icon: threads
+      url: https://www.threads.com/@vfdtyler
     - title: GitHub
       icon: github
       url: https://github.com/Vfdtyler
@@ -39,7 +42,7 @@ You can find me on social media at the links below, listed roughly in order of h
   {%- for link in page.minima.social_links -%}
     <li>
       <a href="{{ link.url }}">
-        <i class="fab fa-{{ link.icon }}"></i> {{ link.title }}
+        <i class="fa-{{ link.style | default: 'brands' }} fa-{{ link.icon }}"></i> {{ link.title }}
       </a>
     </li>
   {%- endfor -%}
