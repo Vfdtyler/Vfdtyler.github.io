@@ -12,4 +12,4 @@ Erin Reed:
 [link2]: https://www.flsenate.gov/Session/ExecutiveSuspensions/2026
 [link3]: https://www.flgov.com/eog/news/press/2022/governor-ron-desantis-suspends-state-attorney-andrew-warren-refusing-enforce
 
-It's worth reading the whole piece to see all the implications this could have, but the summary alone gives you a sense of how insane this is. I could go on about this is exactly the kind of cancel culture that conservatives complain about, or I could talk about this has a chilling effect on free speech, but I don't think I need to go into detail on any of that. They just hate queer people.
+It's worth reading the whole piece to see all the implications this could have, but the summary alone gives you a sense of how insane this is. I could talk about how this is exactly the kind of cancel culture that conservatives complain about, or I could talk about how this has a chilling effect on free speech, but I don't think I need to go into detail on any of that. They just hate queer people.
