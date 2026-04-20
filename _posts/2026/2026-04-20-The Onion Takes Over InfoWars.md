@@ -1,6 +1,6 @@
 ---
 layout: post
-time: 2026-04-20 17:00
+date: 2026-04-20 17:00
 title: The Onion Takes Over InfoWars
 ---
 
