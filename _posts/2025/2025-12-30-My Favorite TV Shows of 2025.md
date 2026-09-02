@@ -22,6 +22,6 @@ There's been a lot of conversation about what this show is about. I've seen peop
 
 ## Severance
 
-Looking back, I'm not sure how well this season holds together as a complete work. I think the story had a couple of unnecessary detours or things that never really payed off, at least not yet. This felt like a season that was very heavy on lore and emotion, and a little light on making progress within the larger story.
+Looking back, I'm not sure how well this season holds together as a complete work. I think the story had a couple of unnecessary detours or things that never really paid off, at least not yet. This felt like a season that was very heavy on lore and emotion, and a little light on making progress within the larger story.
 
 All of that being said, this was a ton of fun to watch week-to-week and the quality of this show is still very high. The premise is fantastic, and I'm totally captivated by the possibilities of where this could go. I think this season was a lot of character exploration and setup for what comes next, but the finale delivers an incredible point of no return. Now all the pieces are on the board, the battle lines have been drawn, and there's no going back.
